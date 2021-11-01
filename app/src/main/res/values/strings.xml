@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">AMazeByXiangluPeng</string>
+    <string name="welcome">Welcome to the Maze!</string>
+    <string name="select_b">Select your builder:</string>
+    <string name="select_r">Rooms:</string>
+    <string name="skill">Choose your skill level:</string>
+    <string name="explore">EXPLORE</string>
+    <string name="revisit">REVISIT</string>
+    <string name="select_robot">Select your robot:</string>
+    <string name="select_driver">Select your driver:</string>
+    <string name="temp">Generating your maze: </string>
+    <string name="manual">Manual</string>
+    <string name="wall">WallFollower</string>
+    <string name="wizard">Wizard</string>
+    <string name="showwall">Wall</string>
+    <string name="showmap">Map</string>
+    <string name="showsolution">Solution</string>
+
+    <string name="congrats">Congratulation!</string>
+    <string name="win">You Win!</string>
+    <string name="lose">You Lose!</string>
+    <string name="tryagain">Try Again!</string>
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="shortest">Shortest Path: </string>
+    <string name="path">Path You Used: </string>
+    <string name="energy">Energy Consumed: </string>
+    <string name="playagain">Play Again!</string>
+    <string name="zoomin">Zoom In</string>
+    <string name="zoomout">Zoom Out</string>
+    <string name="Music">Music</string>
+    <string name="Off">OFF</string>
+    <string name="sensor">Sensor Status</string>
+    <string name="ene_bar">Energy Remains</string>
+    <string name="Speed">Speed Change</string>
+
+
+    <string-array name = "builder">
+
+        <item>DFS</item>
+        <item>Eller</item>
+        <item>Prim</item>
+
+    </string-array>
+
+    <string-array name = "room">
+
+        <item>With Rooms</item>
+        <item>No room</item>
+
+    </string-array>
+
+    <string-array name = "robot">
+
+        <item>Premium</item>
+        <item>Mediocre</item>
+        <item>Soso</item>
+        <item>Shaky</item>
+
+    </string-array>
+
+</resources>
